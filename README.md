@@ -81,4 +81,6 @@ pip install numpy pandas matplotlib
 python Agent_5.py
 ```
 
+## 6. 参考文献
+Mansour, Nour K., and Theo Arvanitopoulos. 2025. "Data-Driven Agent-Based Modeling and Simulation of Price Competition in the Danish Pharmaceutical Market." In Complex Systems 2024, edited by Giovanni Russo, Gregory Higgins, and Joana M. S. Termini, 37–57. Cham: Springer.
 
